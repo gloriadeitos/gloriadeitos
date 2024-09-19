@@ -17,14 +17,15 @@ Here are some ideas to get you started:
 
 ### Education:
 I go to two colleges: <br>
-🏦 Student at Federal University of Parana - Brazil <br>
-💒 Pontifical Catholic University of Paraná
+🏦 Student at Federal University of Parana - Brazil. <br>
+💒 Pontifical Catholic University of Paraná.
 
 And take two courses: <br>
-🏦🗺️🛰️ Bachelor's Degree in Cartographic and Surveying Engineering <br>
-💒💻🐙 Technologist in Systems Analysis and Development
+🏦🗺️🛰️ Bachelor's Degree in Cartographic and Surveying Engineering. <br>
+💒💻🐙 Technologist in Systems Analysis and Development.
 
-💻 I also have a technical education in Computer Technician integrated into high school
+💻 I also am a Computer Technician <br>
+*I studied IT (Information Technology) integrated into high school.
 
 ---
 
