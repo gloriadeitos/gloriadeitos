@@ -24,7 +24,7 @@ And take two courses: <br>
 🏦🗺️🛰️ Bachelor's Degree in Cartographic and Surveying Engineering <br>
 💒💻🐙 Technologist in Systems Analysis and Development
 
-💻 I also have a Computer Technician integrated into high school
+💻 I also have a technical education in Computer Technician integrated into high school
 
 ---
 
