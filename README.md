@@ -21,8 +21,8 @@ I go to two colleges: <br>
 💒 Pontifical Catholic University of Paraná (PUCPR).
 
 And take two courses: <br>
-🏦🗺️🛰️ Bachelor's Degree in Cartographic and Surveying Engineering. <br>
-💒💻🐙 Technologist in Systems Analysis and Development.
+🏦🗺️🛰️ Bachelor's Degree in Cartographic and Surveying Engineering (UFPR). <br>
+💒💻🐙 Technologist in Systems Analysis and Development (PUCPR).
 
 💻 I also am a Computer Technician <br>
 *I studied IT (Information Technology) integrated into high school at PUCPR.
