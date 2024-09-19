@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Education:
 I go to two colleges: <br>
 🏦 Student at Federal University of Parana - Brazil <br>
 💒 Pontifical Catholic University of Paraná
@@ -23,3 +25,20 @@ And take two courses: <br>
 💒💻🐙 Technologist in Systems Analysis and Development
 
 💻 I also have a Computer Technician integrated into high school
+
+---
+
+### My social networks:
+
+Art:
+📷 (Instagram): https://www.instagram.com/gloriadeitos/ <br>
+🪽 (X): https://x.com/gloriadeitos <br>
+📔 (Artstation): https://www.artstation.com/gloriadeitos
+
+Coding:
+📷 (Instagram): https://www.instagram.com/gloriadeitos_dev/
+
+---
+
+### My Card
+Link: https://gloriadeitos.carrd.co/
