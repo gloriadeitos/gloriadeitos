@@ -37,7 +37,7 @@ Art:
 📔 (Artstation): https://www.artstation.com/gloriadeitos
 
 Coding:
-📷 (Instagram): https://www.instagram.com/gloriadeitos_dev/
+📷 (Instagram): https://www.instagram.com/gloriadeitos_dev/ <br>
 🪼 Dio: https://www.dio.me/users/alvugy
 
 ---
