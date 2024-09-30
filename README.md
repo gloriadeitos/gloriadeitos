@@ -31,12 +31,12 @@ And take two courses: <br>
 
 ### My social networks:
 
-Art:
+Art: <br>
 📷 (Instagram): https://www.instagram.com/gloriadeitos/ <br>
 🪽 (X): https://x.com/gloriadeitos <br>
 📔 (Artstation): https://www.artstation.com/gloriadeitos
 
-Coding:
+Coding: <br>
 📷 (Instagram): https://www.instagram.com/gloriadeitos_dev/ <br>
 🪼 Dio: https://www.dio.me/users/alvugy
 
