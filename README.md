@@ -40,7 +40,7 @@ Art: <br>
 
 Coding: <br>
 📷 (Instagram): https://www.instagram.com/gloriadeitos_dev/ <br>
-🪼 Dio: https://www.dio.me/users/alvugy
+🪼 Dio: https://www.dio.me/users/alvugy <br>
 MathWorks: https://www.mathworks.com/matlabcentral/profile/authors/35309206
 
 ---
