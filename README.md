@@ -31,6 +31,8 @@ And take two courses: <br>
 
 ### My social networks:
 
+Linkedin: https://www.linkedin.com/in/gloriadeitos/
+
 Art: <br>
 📷 (Instagram): https://www.instagram.com/gloriadeitos/ <br>
 🪽 (X): https://x.com/gloriadeitos <br>
