@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloriadeitos&show_icons=true&theme=light)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gloriadeitos&layout=compact&theme=light)
+
+
+
 ### Education:
 I go to two colleges: <br>
 🏦 Student at Federal University of Parana - Brazil (UFPR). <br>
