@@ -1,24 +1,7 @@
-## Hi there, i'm Gloria 👋🪼 
-
-<!--
-**gloriadeitos/gloriadeitos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there, I'm Gloria 👋🪼 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloriadeitos&show_icons=true&theme=light)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gloriadeitos&layout=compact&theme=light)
-
-
 
 ### Education:
 I go to two colleges: <br>
@@ -35,20 +18,16 @@ And take two courses: <br>
 ---
 
 ### My social networks:
-
-Linkedin: https://www.linkedin.com/in/gloriadeitos/
-
-Art: <br>
-📷 (Instagram): https://www.instagram.com/gloriadeitos/ <br>
-🪽 (X): https://x.com/gloriadeitos <br>
-📔 (Artstation): https://www.artstation.com/gloriadeitos
-
-Coding: <br>
-📷 (Instagram): https://www.instagram.com/gloriadeitos_dev/ <br>
-🪼 Dio: https://www.dio.me/users/alvugy <br>
-MathWorks: https://www.mathworks.com/matlabcentral/profile/authors/35309206
+<a href="https://gloriadeitos.carrd.co/"><img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/icon/my_card.png" height="30"></a>
+<a href="https://www.linkedin.com/in/gloriadeitos/"><img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/icon/linkedin.png" height="30"></a>
+<a href="https://www.instagram.com/gloriadeitos/"><img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/icon/instagram_art.png" height="30"></a>
+<a href="https://x.com/gloriadeitos"><img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/icon/x.png" height="30"></a>
+<a href="https://www.artstation.com/gloriadeitos"><img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/icon/artstation.png" height="30"></a>
+<a href="https://www.instagram.com/gloriadeitos_dev/"><img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/icon/instagram_dev.png" height="30"></a>
+<a href="https://www.dio.me/users/alvugy"><img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/icon/dio_me.png" height="30"></a>
+<a href="https://www.mathworks.com/matlabcentral/profile/authors/35309206"><img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/icon/mathworks.png" height="30"></a>
 
 ---
 
-### My Card
-Link: https://gloriadeitos.carrd.co/
+### My GitHub pages projects
+[Site Front-End (PUCPR - Fundamentos de Programação Web - Novembro 2024)](https://gloriadeitos.github.io/PUCPR-FundamentosProgWeb-Novembro2024/)
