@@ -17,14 +17,13 @@ And take two courses: <br>
 
 ---
 
-### My social networks:
 <a href="https://gloriadeitos.carrd.co/" target="_blank"><img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/icon/my_card.png" height="30"></a>
 <a href="https://www.linkedin.com/in/gloriadeitos/" target="_blank"><img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/icon/linkedin.png" height="30"></a>
-<a href="https://www.instagram.com/gloriadeitos/" target="_blank"><img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/icon/instagram_art.png" height="30"></a>
-<a href="https://x.com/gloriadeitos" target="_blank"><img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/icon/x.png" height="30"></a>
 <a href="https://www.artstation.com/gloriadeitos" target="_blank"><img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/icon/artstation.png" height="30"></a>
 <a href="https://www.instagram.com/gloriadeitos_dev/" target="_blank"><img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/icon/instagram_dev.png" height="30"></a>
+<a href="https://www.instagram.com/gloriadeitos/" target="_blank"><img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/icon/instagram_art.png" height="30"></a>
 <a href="https://www.dio.me/users/alvugy" target="_blank"><img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/icon/dio_me.png" height="30"></a>
+<a href="https://x.com/gloriadeitos" target="_blank"><img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/icon/x.png" height="30"></a>
 <a href="https://www.mathworks.com/matlabcentral/profile/authors/35309206" target="_blank"><img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/icon/mathworks.png" height="30"></a>
 
 ---
