@@ -28,5 +28,5 @@ And take two courses: <br>
 
 ---
 
-### My GitHub pages projects
+### Projects Hosted on My GitHub Pages
 [Site Front-End (PUCPR - Fundamentos de Programação Web - Novembro 2024)](https://gloriadeitos.github.io/PUCPR-FundamentosProgWeb-Novembro2024/)
