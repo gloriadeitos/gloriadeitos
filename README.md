@@ -1,7 +1,7 @@
 <!-- Header Bilingual -->
 <div align="center">
   <h1>🌨️🌧️❄️ Gloria Deitos ❄️🌧️🌨️</h1>
-  <h4>🇺🇸 Tech. IT | Systems Analysis and Dev | Cartographic and Surveying Engineering | Aspiring Artist | 🇧🇷 Tec. Informática | Análise e Desenvolvimento de Sistemas | Engenharia Cartográfica e de Agrimensura | Artista Aspirante</h4>
+  <h4>🇺🇸 Tech. IT | Systems Analysis and Dev | Cartographic and Surveying Engineering | Aspiring Artist | <br> 🇧🇷 Tec. Informática | Análise e Desenvolvimento de Sistemas | Engenharia Cartográfica e de Agrimensura | Artista Aspirante</h4>
   
   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gloriadeitos&show_icons=true&theme=buefy&title_color=6D6875&icon_color=B8E3FF&bg_color=FAFAFA)](https://github.com/gloriadeitos)
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gloriadeitos&layout=compact&theme=buefy&title_color=6D6875&bg_color=FAFAFA)](https://github.com/gloriadeitos)
@@ -37,23 +37,19 @@
 ---
 
 ### 🛠️ Skills & Ferramentas
-#### 💻 Technologies | Tecnologias
+#### 💻 🇺🇸 Technologies | 🇧🇷 Tecnologias
 ![Vue.js](https://img.shields.io/badge/-Vue.js-B8E3FF?style=flat-square&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-DAF2E6?style=flat-square&logo=react&logoColor=6D6875)
 ![Python](https://img.shields.io/badge/-Python-FFF3B0?style=flat-square&logo=python&logoColor=6D6875)
-![Vue.js](https://img.shields.io/badge/-Vue.js-B8E3FF?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-DAF2E6?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-#### 🗺️ Geotechnologies | Geotecnologias
+#### 🗺️ 🇺🇸 Geotechnologies | 🇧🇷 Geotecnologias
 ![QGIS](https://img.shields.io/badge/-QGIS-DAF2E6?style=flat-square&logo=qgis&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/-ArcGIS%20Online-FFD6E8?style=flat-square&logo=esri&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/-PostGIS/PostgreSQL-FFF3B0?style=flat-square&logo=postgresql&logoColor=6D6875)
-![QGIS](https://img.shields.io/badge/-QGIS-DAF2E6?style=for-the-badge&logo=qgis&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/-ArcGIS-FFD6E8?style=for-the-badge&logo=esri)
 
 ---
 
-### 🌟 **Projects** | **Projetos**
+### 🌟 🇺🇸 **Projects** | 🇧🇷 **Projetos**
 [![CampusMap](https://img.shields.io/badge/UFPR_CampusMap-FFD6E8?style=flat-square&logo=openstreetmap)](https://github.com/gloriadeitos)
 [![PUCPR_Site](https://img.shields.io/badge/PUCPR_Site-B8E3FF?style=flat-square&logo=github)](https://gloriadeitos.github.io/PUCPR-FundamentosProgWeb-Novembro2024/)
 [![UCM-Mobile](https://img.shields.io/badge/-📱%20UCM--Mobile-DAF2E6?style=flat-square)](https://github.com/gloriadeitos)
@@ -61,7 +57,7 @@
 
 ---
 
-### 🎨 **Design Preferences** | **Preferências Visuais**
+### 🎨 🇺🇸 **Design Preferences** | 🇧🇷 **Preferências Visuais**
 **Color Palette:**  
 ![](https://img.shields.io/badge/-B8E3FF-B8E3FF?style=flat-square) ![](https://img.shields.io/badge/-DAF2E6-DAF2E6?style=flat-square)  
 ![](https://img.shields.io/badge/-FFF3B0-FFF3B0?style=flat-square) ![](https://img.shields.io/badge/-FFD6E8-FFD6E8?style=flat-square)  
@@ -76,17 +72,30 @@
 
 ---
 
-### 🌐📬 **Connect** | **Contato**
+### 🌐📬 🇺🇸 **Connect** | 🇧🇷 **Contato**
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFD6E8?style=flat-square)](https://gloriadeitos.carrd.co/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-B8E3FF?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gloriadeitos/)
 [![ArtStation](https://img.shields.io/badge/-🎨%20ArtStation-DAF2E6?style=flat-square&logo=artstation)](https://www.artstation.com/gloriadeitos)
 
 ---
 
-### 📌 In Progress | Em Progresso
-- 🇺🇸 Advanced React Course (50h | Rocketseat) | 🇧🇷 Curso React Avançado  
-- 🇺🇸 Voronoi Maps/QGIS Analysis | 🇧🇷 Mapas Voronoi/QGIS  
-- 🇺🇸 GIS Temporal Dashboard | 🇧🇷 Dashboard SIG Multitemporal
+Aqui está a versão atualizada com o OMT-G Designer:  
+
+---  
+
+### 📌 🇺🇸 In Progress | 🇧🇷 Em Progresso  
+
+-  **[OMT-G Designer (Repository Link | Link do Repositório)](https://github.com/gloriadeitos/omtg-designer)**
+
+<div align="justify">
+  <b>🇺🇸</b> OMT-G Designer is an online diagramming application for designing geographic database systems and applications based on OMT-G, an object-oriented data model for geographic applications. It aims to increase the practical and academic uses of this model by providing an open and platform-independent modeling resource.<br>  
+  The tool ensures schema integrity through consistency checks and includes a function that maps OMT-G conceptual schemas into physical schemas for PostgreSQL/PostGIS and Oracle Spatial, enforcing necessary spatial integrity constraints.<br> 
+  OMT-G Designer is currently available at: [http://www.aqui.io/omtg/](http://www.aqui.io/omtg/)  
+  <br><br>
+  <b>🇧🇷</b> OMT-G Designer é uma aplicação online para diagramação de sistemas e aplicações de bancos de dados geográficos com base no OMT-G, um modelo de dados orientado a objetos para aplicações geográficas. O objetivo é ampliar os usos práticos e acadêmicos desse modelo, fornecendo um recurso de modelagem aberto e independente de plataforma.<br>  
+  A ferramenta realiza verificações de consistência para garantir a integridade do esquema e inclui uma função que mapeia esquemas conceituais OMT-G para esquemas físicos no PostgreSQL/PostGIS e Oracle Spatial, aplicando as restrições de integridade espacial necessárias.<br>
+  OMT-G Designer está disponível em: [http://www.aqui.io/omtg/](http://www.aqui.io/omtg/) 
+</div>
 
 ---
 
