@@ -5,6 +5,21 @@
   
   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gloriadeitos&show_icons=true&theme=buefy&title_color=6D6875&icon_color=B8E3FF&bg_color=FAFAFA)](https://github.com/gloriadeitos)
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gloriadeitos&layout=compact&theme=buefy&title_color=6D6875&bg_color=FAFAFA)](https://github.com/gloriadeitos)
+
+  <br>
+</div>
+
+---
+
+<div align="center">
+  <br>
+    <b>📊 🇺🇸 Summary Cards | 🇧🇷 Cartões de Resumo </b>
+  <br><br>
+
+  ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gloriadeitos&theme=default)
+  [![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=gloriadeitos&theme=default&row=1&column=7&title_color=6D6875&icon_color=B8E3FF&bg_color=FAFAFA)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  <br>
 </div>
 
 ---
