@@ -77,10 +77,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-B8E3FF?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gloriadeitos/)
 [![ArtStation](https://img.shields.io/badge/-🎨%20ArtStation-DAF2E6?style=flat-square&logo=artstation)](https://www.artstation.com/gloriadeitos)
 
----
-
-Aqui está a versão atualizada com o OMT-G Designer:  
-
 ---  
 
 ### 📌 🇺🇸 In Progress | 🇧🇷 Em Progresso  
