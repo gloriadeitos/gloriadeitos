@@ -89,10 +89,60 @@
 
 ---
 
-### 🌐📬 🇺🇸 **Connect** | 🇧🇷 **Contato**
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFD6E8?style=flat-square)](https://gloriadeitos.carrd.co/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-B8E3FF?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gloriadeitos/)
-[![ArtStation](https://img.shields.io/badge/-🎨%20ArtStation-DAF2E6?style=flat-square&logo=artstation)](https://www.artstation.com/gloriadeitos)
+<div align="center">
+  <b>🎮🎹 🇺🇸 Other Interests | 🇧🇷 Outros Interesses</b>
+  <br><br>
+  <table>
+    <tr>
+      <th>🇺🇸</th>
+      <th>🇧🇷</th>
+    </tr>
+    <tr>
+      <td>Piano</td>
+      <td>Piano</td>
+    </tr>
+    <tr>
+      <td>Gaming</td>
+      <td>Jogos</td>
+    </tr>
+    <tr>
+      <td>Arts</td>
+      <td>Artes</td>
+    </tr>
+    <tr>
+      <td>Paleontology</td>
+      <td>Paleontologia</td>
+    </tr>
+    <tr>
+      <td>Fashion</td>
+      <td>Moda</td>
+    </tr>
+    <tr>
+      <td>Sewing</td>
+      <td>Costura</td>
+    </tr>
+    <tr>
+      <td>Aquarium Hobby</td>
+      <td>Aquarismo</td>
+    </tr>
+    <tr>
+      <td>Botany</td>
+      <td>Botânica</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <b>🌐📬 🇺🇸 Connect | 🇧🇷 Contato</b>
+  <br><br>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FFD6E8?style=flat-square)](https://gloriadeitos.carrd.co/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-B8E3FF?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gloriadeitos/)
+  [![ArtStation](https://img.shields.io/badge/-🎨%20ArtStation-DAF2E6?style=flat-square&logo=artstation)](https://www.artstation.com/gloriadeitos)
+
+</div>
 
 ---  
 
