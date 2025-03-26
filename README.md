@@ -1,6 +1,8 @@
 <!-- Header Bilingual -->
 <div align="center">
   <h1>🌨️🌧️❄️ Gloria Deitos ❄️🌧️🌨️</h1>
+  <p style="font-size: 18px; margin: 0;">🎧🌧️❄️🏔️🌲~ Victor❤️Glória</p>
+
   <h4>🇺🇸 Tech. IT | Systems Analysis and Dev | Cartographic and Surveying Engineering | Aspiring Artist | <br> 🇧🇷 Tec. Informática | Análise e Desenvolvimento de Sistemas | Engenharia Cartográfica e de Agrimensura | Artista Aspirante</h4>
   
   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gloriadeitos&show_icons=true&theme=buefy&title_color=6D6875&icon_color=B8E3FF&bg_color=FAFAFA)](https://github.com/gloriadeitos)
