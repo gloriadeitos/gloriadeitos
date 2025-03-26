@@ -1,6 +1,6 @@
 <!-- Header Bilingual -->
 <div align="center">
-  <h1>🌨️🌧️❄️ Gloria Deitos ❄️🌧️🌨️</h1>
+  <h1>🌨️🌧️❄️ Gloria Maria ❄️🌧️🌨️</h1>
   <p style="font-size: 18px; margin: 0;">🎧🌧️❄️🏔️🌲~ Victor❤️Glória</p>
 
   <h4>🇺🇸 Tech. IT | Systems Analysis and Dev | Cartographic and Surveying Engineering | Aspiring Artist | <br> 🇧🇷 Tec. Informática | Análise e Desenvolvimento de Sistemas | Engenharia Cartográfica e de Agrimensura | Artista Aspirante</h4>
