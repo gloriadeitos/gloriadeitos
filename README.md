@@ -153,11 +153,13 @@
 <div align="justify">
   <b>🇺🇸</b> OMT-G Designer is an online diagramming application for designing geographic database systems and applications based on OMT-G, an object-oriented data model for geographic applications. It aims to increase the practical and academic uses of this model by providing an open and platform-independent modeling resource.<br>  
   The tool ensures schema integrity through consistency checks and includes a function that maps OMT-G conceptual schemas into physical schemas for PostgreSQL/PostGIS and Oracle Spatial, enforcing necessary spatial integrity constraints.<br> 
-  OMT-G Designer is currently available at: [http://www.aqui.io/omtg/](http://www.aqui.io/omtg/)  
+  OMT-G Designer is currently available at:<br>
+  http://www.aqui.io/omtg/ (official website)
   <br><br>
   <b>🇧🇷</b> OMT-G Designer é uma aplicação online para diagramação de sistemas e aplicações de bancos de dados geográficos com base no OMT-G, um modelo de dados orientado a objetos para aplicações geográficas. O objetivo é ampliar os usos práticos e acadêmicos desse modelo, fornecendo um recurso de modelagem aberto e independente de plataforma.<br>  
   A ferramenta realiza verificações de consistência para garantir a integridade do esquema e inclui uma função que mapeia esquemas conceituais OMT-G para esquemas físicos no PostgreSQL/PostGIS e Oracle Spatial, aplicando as restrições de integridade espacial necessárias.<br>
-  OMT-G Designer está disponível em: [http://www.aqui.io/omtg/](http://www.aqui.io/omtg/) 
+  OMT-G Designer está disponível em:<br>
+  http://www.aqui.io/omtg/ (site oficial)
 </div>
 
 ---
