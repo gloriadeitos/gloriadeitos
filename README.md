@@ -31,12 +31,9 @@
   <img src="https://img.shields.io/badge/PT--BR-B8E3FF?style=flat-square&logo=google-translate&logoColor=white" height="24">
 </div>
 
+<br>
+
 #### 🎓 🇺🇸 Education | 🇧🇷 Formação Acadêmica
-<div align="left">
-  <img src="https://img.shields.io/badge/-🎓%20UFPR-FFD6E8?style=flat-square&logo=openstreetmap&logoColor=6D6875" height="24">
-  <br>
-  <img src="https://img.shields.io/badge/-🎓%20PUCPR-B8E3FF?style=flat-square&logo=react&logoColor=6D6875" height="24">
-</div>
 
 - **🏦 UFPR** (Brasil/Brazil)<br>
   🇺🇸 `🗺️🛰️ Bachelor's in Cartographic Engineering | QGIS | Python`<br>
