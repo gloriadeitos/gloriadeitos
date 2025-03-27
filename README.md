@@ -29,8 +29,8 @@
 <div align="center">
   <b>🇺🇸 About Me | 🇧🇷 Sobre Mim </b>
   <br>
-  <img src="https://img.shields.io/badge/EN-FFD6E8?style=flat-square&logo=google-translate&logoColor=white" height="24">
-  <img src="https://img.shields.io/badge/PT-B8E3FF?style=flat-square&logo=google-translate&logoColor=white" height="24">
+  <img src="https://img.shields.io/badge/EN--US-FFD6E8?style=flat-square&logo=google-translate&logoColor=white" height="24">
+  <img src="https://img.shields.io/badge/PT--BR-B8E3FF?style=flat-square&logo=google-translate&logoColor=white" height="24">
 </div>
 
 ### 🎓 🇺🇸 Education | 🇧🇷 Formação Acadêmica
@@ -51,7 +51,7 @@
 *🇺🇸 `🎓 Computer Technician` (IT integrated with HS at PUCPR)*<br>
 *🇧🇷 `Técnico em Informática integrado ao Ensino Médio (PUCPR)*
 
----
+<br><br>
 
 ### 🛠️ Skills & Ferramentas
 #### 💻 🇺🇸 Technologies | 🇧🇷 Tecnologias
@@ -64,30 +64,17 @@
 ![ArcGIS](https://img.shields.io/badge/-ArcGIS%20Online-FFD6E8?style=flat-square&logo=esri&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/-PostGIS/PostgreSQL-FFF3B0?style=flat-square&logo=postgresql&logoColor=6D6875)
 
----
-
-### 🌟 🇺🇸 **Projects** | 🇧🇷 **Projetos**
-[![CampusMap](https://img.shields.io/badge/UFPR_CampusMap-FFD6E8?style=flat-square&logo=openstreetmap)](https://github.com/gloriadeitos)
-[![PUCPR_Site](https://img.shields.io/badge/PUCPR_Site-B8E3FF?style=flat-square&logo=github)](https://gloriadeitos.github.io/PUCPR-FundamentosProgWeb-Novembro2024/)
-[![UCM-Mobile](https://img.shields.io/badge/-📱%20UCM--Mobile-DAF2E6?style=flat-square)](https://github.com/gloriadeitos)
-[![Front-End Site](https://img.shields.io/badge/-💻%20Site%20PUCPR%20(2024)-FFF3B0?style=flat-square)](https://gloriadeitos.github.io/PUCPR-FundamentosProgWeb-Novembro2024/)
-
----
+<br><br>
 
 ### 🎨 🇺🇸 **Design Preferences** | 🇧🇷 **Preferências Visuais**
 **Color Palette:**  
-![](https://img.shields.io/badge/-B8E3FF-B8E3FF?style=flat-square) ![](https://img.shields.io/badge/-DAF2E6-DAF2E6?style=flat-square)  
-![](https://img.shields.io/badge/-FFF3B0-FFF3B0?style=flat-square) ![](https://img.shields.io/badge/-FFD6E8-FFD6E8?style=flat-square)  
-`#B8E3FF` (Azul Nuvem) | `#DAF2E6` (Verde Água) | `#FFF3B0` (Amarelo Gema) | `#FFD6E8` (Rosa Algodão)
+![](https://img.shields.io/badge/Cloud_Blue_:_B8E3FF-B8E3FF?style=flat-square) 
+![](https://img.shields.io/badge/Powder_Blue_:_D1EDFF-D1EDFF?style=flat-square)  
+![](https://img.shields.io/badge/Water_Green_:_DAF2E6-DAF2E6?style=flat-square)  
+![](https://img.shields.io/badge/Yolk_Yellow_:_FFF3B0-FFF3B0?style=flat-square)  
+![](https://img.shields.io/badge/Cotton_Pink_:_FFD6E8-FFD6E8?style=flat-square)
 
-**Featured Badge:**  
-![GIS Passion](https://img.shields.io/badge/🌍_GIS_Passion-B8E3FF?style=flat-square&logo=map)
-
-**Badges Customizadas:**  
-![GIS Enthusiast](https://img.shields.io/badge/-🌍%20GIS%20Enthusiast-DAF2E6?style=flat-square&logo=openstreetmap&logoColor=white)
-![Starlink Research](https://img.shields.io/badge/-🛰️%20Starlink%20&%20Geodésia-FFF3B0?style=flat-square&logo=starlink&logoColor=6D6875)
-
----
+<br><br>
 
 <div align="center">
   <b>🎮🎹 🇺🇸 Other Interests | 🇧🇷 Outros Interesses</b>
@@ -132,7 +119,7 @@
   </table>
 </div>
 
----
+<br><br>
 
 <div align="center">
   <b>🌐📬 🇺🇸 Connect | 🇧🇷 Contato</b>
@@ -144,7 +131,22 @@
 
 </div>
 
----  
+--- 
+
+<div align="center">
+  <b>🌟 🇺🇸 Projects | 🇧🇷 Projetos</b>
+  <br>
+  <img src="https://img.shields.io/badge/EN--US-FFD6E8?style=flat-square&logo=google-translate&logoColor=white" height="24">
+  <img src="https://img.shields.io/badge/PT--BR-B8E3FF?style=flat-square&logo=google-translate&logoColor=white" height="24">
+
+  <br><br>
+
+  [![ufpr-sig](https://img.shields.io/badge/|_WebGIS_for_SDG_11_Analysis_in_Curitiba--PR_(December_2024)-B8E3FF?style=flat-square&logo=openstreetmap&logoColor=black)](https://gloriadeitos.github.io/ufpr-sig/)
+  [![pucpr-webdev-basics](https://img.shields.io/badge/|_Basic_full--stack_web_application_with_CRUD_(December_2024)-B8E3FF?style=flat-square&logo=databricks&logoColor=black)](https://gloriadeitos.github.io/pucpr-webdev-basics/)
+  [![pucpr-applied-comm](https://img.shields.io/badge/|_Basic_front--end_website_built_with_HTML,_CSS,_and_JavaScript_(July_2024)-d1edff?style=flat-square&logo=spacex&logoColor=black)](https://gloriadeitos.github.io/pucpr-applied-comm/)
+</div>
+
+<br><br>
 
 ### 📌 🇺🇸 In Progress | 🇧🇷 Em Progresso  
 
@@ -163,6 +165,16 @@
 </div>
 
 ---
+
+<div align="center">
+  <p><b>🇺🇸 Note:</b> the icons used in the badges are from: | <b>🇧🇷 Obs:</b> os ícones utilizados nos badges são do: <a href="https://simpleicons.org/" target="_blank"><b>Simple Icons</b></a>.</p>
+</div>
+
+---
+
+<div align="center">
+  <p><b>🇺🇸</b> Button-shaped links | <b>🇧🇷 </b> Links em botões</p>
+</div>
 
 <a href="https://gloriadeitos.carrd.co/" target="_blank"><img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/icon/my_card.png" height="30"></a>
 <a href="https://www.linkedin.com/in/gloriadeitos/" target="_blank"><img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/icon/linkedin.png" height="30"></a>
