@@ -15,9 +15,8 @@
 
 <div align="center">
   <br>
-    <b>📊 🇺🇸 Summary Cards | 🇧🇷 Cartões de Resumo </b>
-  <br><br>
-
+    <h3><b>📊 🇺🇸 Summary Cards | 🇧🇷 Cartões de Resumo </b></h3>
+  
   ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gloriadeitos&theme=default)
   [![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=gloriadeitos&theme=default&row=1&column=7&title_color=6D6875&icon_color=B8E3FF&bg_color=FAFAFA)](https://github.com/ryo-ma/github-profile-trophy)
   
@@ -27,13 +26,12 @@
 ---
 
 <div align="center">
-  <b>🇺🇸 About Me | 🇧🇷 Sobre Mim </b>
-  <br>
+  <h3><b>🇺🇸 About Me | 🇧🇷 Sobre Mim </b></h3>
   <img src="https://img.shields.io/badge/EN--US-FFD6E8?style=flat-square&logo=google-translate&logoColor=white" height="24">
   <img src="https://img.shields.io/badge/PT--BR-B8E3FF?style=flat-square&logo=google-translate&logoColor=white" height="24">
 </div>
 
-### 🎓 🇺🇸 Education | 🇧🇷 Formação Acadêmica
+#### 🎓 🇺🇸 Education | 🇧🇷 Formação Acadêmica
 <div align="left">
   <img src="https://img.shields.io/badge/-🎓%20UFPR-FFD6E8?style=flat-square&logo=openstreetmap&logoColor=6D6875" height="24">
   <br>
@@ -53,21 +51,21 @@
 
 <br><br>
 
-### 🛠️ Skills & Ferramentas
-#### 💻 🇺🇸 Technologies | 🇧🇷 Tecnologias
+#### 🛠️ Skills & Ferramentas
+##### 💻 🇺🇸 Technologies | 🇧🇷 Tecnologias
 ![Vue.js](https://img.shields.io/badge/-Vue.js-B8E3FF?style=flat-square&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-DAF2E6?style=flat-square&logo=react&logoColor=6D6875)
 ![Python](https://img.shields.io/badge/-Python-FFF3B0?style=flat-square&logo=python&logoColor=6D6875)
 
-#### 🗺️ 🇺🇸 Geotechnologies | 🇧🇷 Geotecnologias
+##### 🗺️ 🇺🇸 Geotechnologies | 🇧🇷 Geotecnologias
 ![QGIS](https://img.shields.io/badge/-QGIS-DAF2E6?style=flat-square&logo=qgis&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/-ArcGIS%20Online-FFD6E8?style=flat-square&logo=esri&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/-PostGIS/PostgreSQL-FFF3B0?style=flat-square&logo=postgresql&logoColor=6D6875)
 
 <br><br>
 
-### 🎨 🇺🇸 **Design Preferences** | 🇧🇷 **Preferências Visuais**
-**Color Palette:**  
+#### 🎨 🇺🇸 **Design Preferences** | 🇧🇷 **Preferências Visuais**
+##### Color Palette:
 ![](https://img.shields.io/badge/Cloud_Blue_:_B8E3FF-B8E3FF?style=flat-square) 
 ![](https://img.shields.io/badge/Powder_Blue_:_D1EDFF-D1EDFF?style=flat-square)  
 ![](https://img.shields.io/badge/Water_Green_:_DAF2E6-DAF2E6?style=flat-square)  
@@ -77,8 +75,7 @@
 <br><br>
 
 <div align="center">
-  <b>🎮🎹 🇺🇸 Other Interests | 🇧🇷 Outros Interesses</b>
-  <br><br>
+  <h4><b>🎮🎹 🇺🇸 Other Interests | 🇧🇷 Outros Interesses</b></h4>
   <table>
     <tr>
       <th>🇺🇸</th>
@@ -122,20 +119,17 @@
 <br><br>
 
 <div align="center">
-  <b>🌐📬 🇺🇸 Connect | 🇧🇷 Contato</b>
-  <br><br>
+  <h4><b>🌐📬 🇺🇸 Connect | 🇧🇷 Contato</b></h4>
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-FFD6E8?style=flat-square)](https://gloriadeitos.carrd.co/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-B8E3FF?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gloriadeitos/)
   [![ArtStation](https://img.shields.io/badge/-🎨%20ArtStation-DAF2E6?style=flat-square&logo=artstation)](https://www.artstation.com/gloriadeitos)
-
 </div>
 
 --- 
 
 <div align="center">
-  <b>🌟 🇺🇸 Projects | 🇧🇷 Projetos</b>
-  <br>
+  <h3><b>🌟 🇺🇸 Projects | 🇧🇷 Projetos</b></h3>
   <img src="https://img.shields.io/badge/EN--US-FFD6E8?style=flat-square&logo=google-translate&logoColor=white" height="24">
   <img src="https://img.shields.io/badge/PT--BR-B8E3FF?style=flat-square&logo=google-translate&logoColor=white" height="24">
 
@@ -148,7 +142,7 @@
 
 <br><br>
 
-### 📌 🇺🇸 In Progress | 🇧🇷 Em Progresso  
+#### 📌 🇺🇸 In Progress | 🇧🇷 Em Progresso  
 
 -  **[OMT-G Designer (Repository Link | Link do Repositório)](https://github.com/gloriadeitos/omtg-designer)**
 
