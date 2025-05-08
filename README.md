@@ -8,6 +8,9 @@
   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gloriadeitos&show_icons=true&theme=buefy&title_color=6D6875&icon_color=B8E3FF&bg_color=FAFAFA)](https://github.com/gloriadeitos)
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gloriadeitos&layout=compact&theme=buefy&title_color=6D6875&bg_color=FAFAFA&include_all_commits=true)](https://github.com/gloriadeitos)
 
+  ![Profile 3D](./profile-3d-contrib/profile-green.svg)
+
+
   <br>
 </div>
 
