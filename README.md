@@ -134,18 +134,12 @@
 
 #### 📌 🇺🇸 In Progress | 🇧🇷 Em Progresso  
 
--  **[OMT-G Designer (Repository Link | Link do Repositório)](https://github.com/gloriadeitos/omtg-designer)**
+-  **[ufpr-adjustment (Repository Link | Link do Repositório)](https://github.com/gloriadeitos/ufpr-adjustment)**
 
 <div align="justify">
-  <b>🇺🇸</b> OMT-G Designer is an online diagramming application for designing geographic database systems and applications based on OMT-G, an object-oriented data model for geographic applications. It aims to increase the practical and academic uses of this model by providing an open and platform-independent modeling resource.<br>  
-  The tool ensures schema integrity through consistency checks and includes a function that maps OMT-G conceptual schemas into physical schemas for PostgreSQL/PostGIS and Oracle Spatial, enforcing necessary spatial integrity constraints.<br> 
-  OMT-G Designer is currently available at:<br>
-  http://www.aqui.io/omtg/ (official website)
+  <b>🇺🇸</b> Um modelo Typst para geração de relatórios técnicos seguindo os padrões de formatação ABNT da UFPR. Fornece formatação acadêmica adequada para artigos de pesquisa e documentação técnica.
   <br><br>
-  <b>🇧🇷</b> OMT-G Designer é uma aplicação online para diagramação de sistemas e aplicações de bancos de dados geográficos com base no OMT-G, um modelo de dados orientado a objetos para aplicações geográficas. O objetivo é ampliar os usos práticos e acadêmicos desse modelo, fornecendo um recurso de modelagem aberto e independente de plataforma.<br>  
-  A ferramenta realiza verificações de consistência para garantir a integridade do esquema e inclui uma função que mapeia esquemas conceituais OMT-G para esquemas físicos no PostgreSQL/PostGIS e Oracle Spatial, aplicando as restrições de integridade espacial necessárias.<br>
-  OMT-G Designer está disponível em:<br>
-  http://www.aqui.io/omtg/ (site oficial)
+  <b>🇧🇷</b> A Typst template for generating technical reports following UFPR's ABNT formatting standards. It provides appropriate academic formatting for research articles and technical documentation.
 </div>
 
 ---
