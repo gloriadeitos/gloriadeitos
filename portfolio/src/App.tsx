@@ -10,7 +10,7 @@ import Home from './pages/home/home';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/react-example">
       <Routes>
         <Route path="/" element={<Home />} />
       </Routes>
